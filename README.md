@@ -1,6 +1,6 @@
 # MusicPlayer
 
-A new Flutter project.
+Created a simple application using flutter which can play music file and has a basic UI
 
 ## Getting Started
 
